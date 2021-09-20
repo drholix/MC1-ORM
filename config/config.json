@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "binar",
+    "password": "keren",
+    "database": "mc_database_development",
+    "host": "sql.madecanggih.dev",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "binar",
+    "password": "keren",
+    "database": "mc_database_test",
+    "host": "sql.madecanggih.dev",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "binar",
+    "password": "keren",
+    "database": "mc_database_production",
+    "host": "sql.madecanggih.dev",
+    "dialect": "postgres"
+  }
+}
+
